@@ -22,7 +22,7 @@ To improve we would like to:
 * Add a wirless training device
 * Train with the actuall Joey Chestnut
 * Train on different professional food eating athleats
-* Add indication if you got the move 
+* Add indication if you got the move wrong and how to fix it
 
 ## Demo
 
